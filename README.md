@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 😎✨  
+# ¡Hola! Soy Juan José Ruipérez 😎✨  
 **Desarrollador Full Stack** | **Diseñador Gráfico** | **Apasionado por la Innovación**
 
 ---
