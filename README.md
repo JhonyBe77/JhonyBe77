@@ -19,6 +19,10 @@ Desarrollador Full Stack con experiencia en **React**, **Node.js**, **MongoDB** 
 
 ---
 
+<a href="https://www.github.com/JhonyBe77" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JhonyBe77?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
+---
+
 ## 💼 Tecnologías y Herramientas:
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
