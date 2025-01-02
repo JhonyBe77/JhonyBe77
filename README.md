@@ -40,9 +40,13 @@ Desarrollador Full Stack con experiencia en **React**, **Node.js**, **MongoDB** 
 
 ---
 
-## 📊 Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/JhonyBe77"><img src="https://github-readme-stats.vercel.app/api?username=JhonyBe77&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="JhonyBe77's GitHub stats" /></a>
+
+<a href="http://www.github.com/JhonyBe77"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonyBe77&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/JhonyBe77" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonyBe77&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
